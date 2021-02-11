@@ -1,0 +1,16 @@
+D:\Projects\CS_Bank\CS_Bank\bin\Debug\net5.0\CS_Bank.exe
+D:\Projects\CS_Bank\CS_Bank\bin\Debug\net5.0\CS_Bank.deps.json
+D:\Projects\CS_Bank\CS_Bank\bin\Debug\net5.0\CS_Bank.runtimeconfig.json
+D:\Projects\CS_Bank\CS_Bank\bin\Debug\net5.0\CS_Bank.runtimeconfig.dev.json
+D:\Projects\CS_Bank\CS_Bank\bin\Debug\net5.0\CS_Bank.dll
+D:\Projects\CS_Bank\CS_Bank\bin\Debug\net5.0\ref\CS_Bank.dll
+D:\Projects\CS_Bank\CS_Bank\bin\Debug\net5.0\CS_Bank.pdb
+D:\Projects\CS_Bank\CS_Bank\obj\Debug\net5.0\CS_Bank.csprojAssemblyReference.cache
+D:\Projects\CS_Bank\CS_Bank\obj\Debug\net5.0\CS_Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CS_Bank\CS_Bank\obj\Debug\net5.0\CS_Bank.AssemblyInfoInputs.cache
+D:\Projects\CS_Bank\CS_Bank\obj\Debug\net5.0\CS_Bank.AssemblyInfo.cs
+D:\Projects\CS_Bank\CS_Bank\obj\Debug\net5.0\CS_Bank.csproj.CoreCompileInputs.cache
+D:\Projects\CS_Bank\CS_Bank\obj\Debug\net5.0\CS_Bank.dll
+D:\Projects\CS_Bank\CS_Bank\obj\Debug\net5.0\ref\CS_Bank.dll
+D:\Projects\CS_Bank\CS_Bank\obj\Debug\net5.0\CS_Bank.pdb
+D:\Projects\CS_Bank\CS_Bank\obj\Debug\net5.0\CS_Bank.genruntimeconfig.cache
